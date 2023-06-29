@@ -47,9 +47,10 @@
 9. To Run The Client From Your IDE, Do The Following.
 10. `PacketManipulator -> Tasks -> Fabric -> runClient`
 
-# =============[ Help/Information Center ]=============
+# ========[ Help/Information Center ]========
 
 <center>
+  
 [Submit A Question](https://github.com/Gulag-Innovation/PacketManipulator/issues/new?assignees=&labels=question&template=question.md&title=)
 
 [Submit A Suggestion](https://github.com/Gulag-Innovation/PacketManipulator/issues/new?assignees=&labels=suggestion&template=suggestion.md&title=)
@@ -57,6 +58,7 @@
 [Report A Bug](https://github.com/Gulag-Innovation/PacketManipulator/issues/new?assignees=&labels=bug&template=bug-report.md&title=)
 
 [Please Read Our Contribution Guidelines](https://github.com/Gulag-Innovation/PacketManipulator/blob/master/CONTRIBUTING.md)
+
 </center>
 
 # =============[ Credits ]=============
