@@ -29,8 +29,9 @@
 ### [Minecraft 1.20.1][minecraft]
 ### [Minecraft Fabric 1.20.1][fabric] | [How To Install Fabric For 1.20.1][fabrichowto]
 
-1. ###**[IntelliJ][intellij]/[Eclipse][eclipse]**
-2. ####**_IntelliJ Is Recommended! (Scroll Down On The [Download Page][intellij] To Download The Community Edition)_**
+### **[IntelliJ][intellij]/[Eclipse][eclipse]**
+
+### **_IntelliJ Is Recommended! (Scroll Down On The [Download Page][intellij] To Download The Community Edition)_**
 
 ## ============[ Building From Source Instructions ]============
 
@@ -50,7 +51,7 @@
 # ========[ Help/Information Center ]========
 
 <center>
-  
+
 [Submit A Question](https://github.com/Gulag-Innovation/PacketManipulator/issues/new?assignees=&labels=question&template=question.md&title=)
 
 [Submit A Suggestion](https://github.com/Gulag-Innovation/PacketManipulator/issues/new?assignees=&labels=suggestion&template=suggestion.md&title=)
