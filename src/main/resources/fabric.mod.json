@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "packetmanipulator",
+  "version": "${version}",
+
+  "name": "packetmanipulator",
+  "description": "A Based Minecraft Mod For Finding Dupes & Exploits",
+  "authors": [
+    "Mr.Gibson/Yaimsputnik5"
+  ],
+  "contact": {
+    "homepage": "https://thegulag.net/",
+    "sources": "https://github.com/Gulag-Innovation/PacketManipulator",
+    "issues": "https://github.com/Gulag-Innovation/PacketManipulator/issues"
+  },
+
+  "license": "GPL-v3",
+  "icon": "assets/packetmanipulator/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "net.thegulag.packetmanipulator.PacketManipulator"
+    ]
+  },
+  "mixins": [
+    "packetmanipulator.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.9",
+    "fabric-api": "*",
+    "minecraft": "~1.20",
+    "java": ">=17"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "gui.packetmanipulator.client-side-close": "Close Without Sending Packet",
+  "gui.packetmanipulator.client-wake-up": "Client Wakeup",
+  "gui.packetmanipulator.server-side-close": "Desync",
+  "gui.packetmanipulator.force-respawn": "Anti-Respawn Potion Fix",
+  "gui.packetmanipulator.cancel-packets": "Cancel Packets",
+  "gui.packetmanipulator.delay-packets": "Delay Packets",
+  "gui.packetmanipulator.save": "Save GUI",
+  "gui.packetmanipulator.load": "Load Saved GUI",
+  "gui.packetmanipulator.disconnect": "Send Packets & Disconnect",
+
+  "gui.packetmanipulator.sid": "Copy Sync-ID",
+  "gui.packetmanipulator.rev": "Copy Revision",
+  "gui.packetmanipulator.title": "Copy Title (JSON)",
+  "gui.packetmanipulator.fabricate": "Fabricate Packet",
+
+  "fabricate.packetmanipulator.send": "Send Packet",
+  "fabricate.packetmanipulator.invalid": "Invalid Parameters!",
+  "fabricate.packetmanipulator.success": "Packet Sent Successfully!"
+}

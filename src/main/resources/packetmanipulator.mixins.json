@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.thegulag.packetmanipulator.mixin",
+  "compatibilityLevel": "JAVA_16",
+  "client": [
+    "MixinChatScreen",
+    "MixinClientConnection",
+    "MixinClientPlayerEntity",
+    "MixinScreen",
+    "MixinTextFieldWidget"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
