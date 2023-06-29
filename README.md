@@ -19,7 +19,7 @@
 
 <b><font size=+1>Packet Manipulator Is A Based Minecraft Mod For Finding Packet-Based Dupes & Exploits.</font></b>
 
-# ============[ Getting Started ]===============
+# ========[ Getting Started ]===========
 
 **This Guide Will Show You How To Properly Clone, Setup, Build, And Compile Packet Manipulator.**
 
