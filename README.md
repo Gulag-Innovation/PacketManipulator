@@ -1,4 +1,4 @@
-# ===[ 🔒 Packet Manipulator Official Repository 🔒 ]===
+# =====[ 🔒 Packet Manipulator Official Repository 🔒 ]=====
 
 [![minecraft](https://img.shields.io/badge/Minecraft-1.20.1-blueviolet.svg)](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.1.html)
 [![Discord](https://img.shields.io/discord/840168131652747264?color=9900ee&label=discord&style=flat-round)](https://thegulag.net/)
