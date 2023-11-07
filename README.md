@@ -64,7 +64,7 @@
 
 # =============[ Credits ]=============
 
-- [Mr.Gibson/Yaimsputnik5 | Discord: yaimsputnik5 | Mr.Gibson#6221 | UserID: 1116028346933968987][yaimsputnik5github]
+- [Mr.Gibson/Yaimsputnik5 | Discord: thegulag.net | UserID: 1170811419030196294][yaimsputnik5github]
 
 [eclipse]: https://www.eclipse.org/downloads/
 [intellij]: https://www.jetbrains.com/idea/download/?section=windows
